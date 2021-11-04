@@ -1,0 +1,9 @@
+
+CRIAÇÃO DO PROJETO
+
+git clone https://github.com/wellsousa1987/pokedexm2m.git
+
+npm init react-app pokedexm2m
+
+npm install bootstrap
+
