@@ -24,3 +24,10 @@ git push origin
 
 A font Pokemon foi retirada do site: https://www.dafont.com/pt/pokemon.font  04/11/2021
 
+//========================================
+
+MANIPULAÇÃO DE REQUESTS
+==========================================
+
+npm install axios
+
