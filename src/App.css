@@ -1,0 +1,20 @@
+
+
+@font-face{
+  font-family:'Pokemon';
+  src: url('./fonts/Pokemon Hollow.ttf') format('truetype'),
+       url('./fonts/Pokemon Solid.ttf') format('truetype')
+}
+
+.App{
+  padding-top: 5rem;
+  min-height: 100vh;
+}
+
+.navbar{
+  background-color: #99ccff !important;
+}
+
+.h1{
+  font-family: 'Pokemon';
+}

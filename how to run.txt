@@ -7,3 +7,20 @@ npm init react-app pokedexm2m
 
 npm install bootstrap
 
+
+-------------------------------
+GIT
+-------------------------------
+
+git status
+git add *
+
+git log
+
+git commit -m""
+
+git push origin
+
+
+A font Pokemon foi retirada do site: https://www.dafont.com/pt/pokemon.font  04/11/2021
+
